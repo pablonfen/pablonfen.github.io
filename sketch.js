@@ -33,7 +33,7 @@ function setup() {
 	var noSe = 40;
 	//imprimir en consola
 	console.log(noSe);
-	frameRate(1);
+	frameRate(10);
 }
 
 
